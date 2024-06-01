@@ -1,1 +1,1 @@
-# kafka-utils
+# kafkautils
